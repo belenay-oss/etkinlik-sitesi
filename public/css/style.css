@@ -1,5 +1,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    flex-wrap: wrap;
 }
 
 header nav{
@@ -34,7 +35,7 @@ main{
     background: #f9f9f9;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     vertical-align: top;
-    flex-wrap: wrap;
+    
 }
 
 .etkinlik-kutu button {
